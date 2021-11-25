@@ -67,4 +67,4 @@ HTML Sémantique requis, pas de balises div en cascade !!!
 
 Le copié collé (attention pas de template) est à éviter mais possible pour des petites portions de code (par exemple des boutons, etc…), mais attention à ne coller que des blocs de code que l'on peut expliquer. Cela dit l'idéal serait d'exploiter des outils comme Emmet.
 
-Toutes les contributions devront passer par par des pull requests sur le repo principal du projet.
+Toutes les contributions devront passer par des pull requests sur le repo principal du projet.
