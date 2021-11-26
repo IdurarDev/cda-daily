@@ -59,7 +59,7 @@ Travail en groupe.
 Pas de framework CSS, ni de préprocesseurs, du bon vieux CSS à l’ancienne !!!
 Passage au validator sans erreurs.
 
-Wireframe livré en en version responsive.
+Wireframe livré en version responsive.
 
 Vous démarrez à partir d'un "boiler plate" (cf liens fourni dans ce brief), tous les fichiers pertinents sont bien rédigés avec les bonnes informations, comme par exemple le human.txt, le bon favicon, etc …
 
