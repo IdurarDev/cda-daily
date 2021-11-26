@@ -30,4 +30,4 @@
 * [x] Initiation aux méthodes agiles
 * [x] Mise en place la méthodologie Scrum
 * [x] Mise en place du premier projet sur Jira
-* [] Découverte de Gitflow
+* [x] Découverte de Gitflow
