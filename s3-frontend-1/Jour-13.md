@@ -12,8 +12,8 @@
 * [x] Découvrir le tri à bulles (Bubble Sort)
 * [x] Découvrir le tri par selection (Selection Sort)
 * [x] Découvrir le tri par tas (Heap Sort)
-* [] Découvrir le tri fusion (Merge Sort)
-* [] Découvrir le tri rapide (Quicksort)
+* [x] Découvrir le tri fusion (Merge Sort)
+* [x] Découvrir le tri rapide (Quicksort)
 
-* [] Ecrire en pseudocode ces algorithmes de tri (création pure)
+* [x] Ecrire en pseudocode ces algorithmes de tri (création pure)
 * [] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
