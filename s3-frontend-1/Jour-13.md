@@ -10,8 +10,8 @@
 * [x] Comprendre l'utilité des algorithmes de tri
 * [x] Découvrir le tri par insertion (Insertion Sort)
 * [x] Découvrir le tri à bulles (Bubble Sort)
-* [] Découvrir le tri par selection (Selection Sort)
-* [] Découvrir le tri par tas (Heap Sort)
+* [x] Découvrir le tri par selection (Selection Sort)
+* [x] Découvrir le tri par tas (Heap Sort)
 * [] Découvrir le tri fusion (Merge Sort)
 * [] Découvrir le tri rapide (Quicksort)
 
