@@ -4,11 +4,11 @@
 
 ### Documentation : 
 
-* [ ] Savoir se documenter (MDN)
-* [ ] Comprendre la différence entre Frontend et Backend
+* [x] Savoir se documenter (MDN)
+* [x] Comprendre la différence entre Frontend et Backend
 
-* [ ] Découverte de la sainte trinité du web (HTML, CSS et JS)
-  * [ ] Comprendre les différences et rôle de chacun
+* [x] Découverte de la sainte trinité du web (HTML, CSS et JS)
+  * [x] Comprendre les différences et rôle de chacun
 
 
 ### HTML :
@@ -27,4 +27,4 @@
   * [x] Découvrir les formulaires et leur validation en HTML5
   * [x] Comprendre l'utilité et le fonctionnement des labels en HTML5
   * [x] Comprendre le fonctionnement des dropdwowns, boutons radio, et checkbox
-  * [x] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
+  * [x] Savoir insérer une vidéo dans une page HTML (Youtube, localex
