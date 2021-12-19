@@ -6,7 +6,7 @@
 
 * [x] Comprendre le fonctionnement de Flexbox
   * [x] Faire le parcours Flexbox Froggy (https://flexboxfroggy.com/#fr)
-  * [] Faire le parcours Flexbox Defense (http://www.flexboxdefense.com/)
+  * [x] Faire le parcours Flexbox Defense (http://www.flexboxdefense.com/)
 * [x] Comprendre le fonctionnement de CSS Grid
   * [x] Faire le parcours Grid Garden (https://cssgridgarden.com/#fr)
 
