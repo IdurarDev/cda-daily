@@ -48,13 +48,13 @@
   * [x] Comprendre comment fonctionne `textContent` (quel est son point fort)
   * [x] Comprendre comment fonctionne `hidden`
 
-* [] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+* [xx] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
-    * [] vérifier l'existence d'un `attribute`
-    * [] récupérer la valeur d'un `attribute`
-    * [] écrire une valeur pour un `attribute`
-    * [] supprimer un `attribute`
-    * [] récupérer une collection de tous les `attributes`
+    * [x] vérifier l'existence d'un `attribute`
+    * [x] récupérer la valeur d'un `attribute`
+    * [x] écrire une valeur pour un `attribute`  n
+    * [x] supprimer un `attribute`
+    * [x] récupérer une collection de tous les `attributes`
 
 
 * Codewars :
