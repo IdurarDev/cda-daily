@@ -10,4 +10,4 @@
     * [x] FizzBuzz
     * [x] Chess board
     * [x] Minimum
-    * [] Récursion
+    * [x] Récursion
