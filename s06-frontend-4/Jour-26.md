@@ -30,7 +30,7 @@
 
 * [x] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [xx] `querySelector`
+      * [x] `querySelector`
       * [x] `querySelectorAll`
       * [x] `getElementById`
       * [x] `getElementsByName`
@@ -48,7 +48,7 @@
   * [x] Comprendre comment fonctionne `textContent` (quel est son point fort)
   * [x] Comprendre comment fonctionne `hidden`
 
-* [xx] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+* [x] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
     * [x] vérifier l'existence d'un `attribute`
     * [x] récupérer la valeur d'un `attribute`
