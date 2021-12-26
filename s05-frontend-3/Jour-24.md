@@ -5,8 +5,8 @@
 
 ### Javascript :
 
-* [] Réussir les katas suivants et réaliser des tests unitaires pour chaque (5  par fonction au moins ) :
-    * [] Bean counting
+* [x] Réussir les katas suivants et réaliser des tests unitaires pour chaque (5  par fonction au moins ) :
+    * [x] Bean counting
     * [] Sum of Range
     * [] Reversing array
     * [] Josephus problem
