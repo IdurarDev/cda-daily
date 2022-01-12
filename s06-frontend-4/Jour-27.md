@@ -25,11 +25,11 @@
 
 
 * [x] Comprendre le fonctionnement des coordonnées dans une page web (https://fr.javascript.info/coordinates)
-  * [] `position:fixed`
-  * [] `position:absolue`
+  * [x] `position:fixed`
+  * [x] `position:absolue`
 
 
-* [] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
+* [x] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
   * Comprendre ce que sont les : 
     * [] évènements liés à la souris
     * [] évènements liés aux formulaires
